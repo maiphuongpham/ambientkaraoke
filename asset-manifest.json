@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ambientkaraoke/static/css/main.bf23760b.chunk.css",
+    "main.js": "/ambientkaraoke/static/js/main.f8a3b17b.chunk.js",
+    "main.js.map": "/ambientkaraoke/static/js/main.f8a3b17b.chunk.js.map",
+    "runtime-main.js": "/ambientkaraoke/static/js/runtime-main.52ea1691.js",
+    "runtime-main.js.map": "/ambientkaraoke/static/js/runtime-main.52ea1691.js.map",
+    "static/js/2.5d1f5aa6.chunk.js": "/ambientkaraoke/static/js/2.5d1f5aa6.chunk.js",
+    "static/js/2.5d1f5aa6.chunk.js.map": "/ambientkaraoke/static/js/2.5d1f5aa6.chunk.js.map",
+    "index.html": "/ambientkaraoke/index.html",
+    "precache-manifest.840f72d1ab7990d6187e5331fc0e5fdb.js": "/ambientkaraoke/precache-manifest.840f72d1ab7990d6187e5331fc0e5fdb.js",
+    "service-worker.js": "/ambientkaraoke/service-worker.js",
+    "static/css/main.bf23760b.chunk.css.map": "/ambientkaraoke/static/css/main.bf23760b.chunk.css.map",
+    "static/js/2.5d1f5aa6.chunk.js.LICENSE.txt": "/ambientkaraoke/static/js/2.5d1f5aa6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52ea1691.js",
+    "static/js/2.5d1f5aa6.chunk.js",
+    "static/css/main.bf23760b.chunk.css",
+    "static/js/main.f8a3b17b.chunk.js"
+  ]
+}
