@@ -1,0 +1,36 @@
+.fullscreen-player {
+  height: 100vh;
+  width: 100vw;
+  background-image: url('/wallpaper.png'); /* adjust path */
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.visualizer-container {
+  width: 90vw;
+  height: 60vh;
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  background: transparent;
+  /* margin-bottom: 20px; */
+  margin-bottom: 10vh;
+}
+
+.visualizer-container svg {
+  transform: scaleX(1.661); /* try 2.0 for more zoom */
+  transform-origin: left;
+}
+
+.fullscreen-play {
+  font-size: 1.5rem;
+  padding: 10px 20px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 2px solid white;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+  backdrop-filter: blur(5px);
+}
